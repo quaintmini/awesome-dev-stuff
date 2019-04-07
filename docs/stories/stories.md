@@ -26,8 +26,8 @@ sidebar_label: Stories
 - [How I helped 1 million people to learn to code for free](https://www.producthunt.com/stories/how-i-helped-1-million-people-learn-to-code-for-free)
 
 
-- []()
-- []()
+- [Why you should apply to engineering jobs you aren't qualified for](https://angel.co/blog/why-you-should-apply-to-engineering-jobs-you-arent-qualified-for)
+
 - [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
 - [What I learned in my first year as a Software Engineer in a startup](https://medium.com/@clementb/what-i-learned-in-my-first-year-as-a-software-engineer-in-a-startup-c078161e5a8e)
 
